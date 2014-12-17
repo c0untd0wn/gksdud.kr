@@ -1,0 +1,14 @@
+#str, #result {
+  width: 100% !important;
+  height: 150px;
+  font-size: 12pt;
+  font-family: sans-serif;
+}
+#container-about {
+  display: none;
+  font-size: 14pt;
+}
+.centered {
+  text-align: center;
+  margin: 0 auto;
+}
